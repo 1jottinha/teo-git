@@ -1,0 +1,10 @@
+ls -> lista arquivos
+-a -> arquivos ocultos 
+cd -> move entre diretorios
+lwd -> mostra o lugar/caminho do diretorio
+cat -> mostra o que tem dentro do arquivo
+
+(comandos-git)
+git init . -> inicializa repositorio git vazio
+rm -rf .git/ -> remove (CUIDADO! -rf remove até o :C/)
+
