@@ -8,3 +8,10 @@ cat -> mostra o que tem dentro do arquivo
 git init . -> inicializa repositorio git vazio
 rm -rf .git/ -> remove (CUIDADO! -rf remove até o :C/)
 
+git status -> 
+
+git add -> prepara o que pode ser commited
+
+git commit -m "xxx" ->
+
+git config --global user.EMAIL/NAME "xxx" ->
