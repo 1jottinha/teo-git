@@ -3,3 +3,16 @@ git status   -> mostra o status do trabalho (cada arquivo)
 git add nome_arquivo -> adciona arquivo para ser commitado
 git commit -m "msg" -> faz commit do que estava para ser commitado
 git log      -> mostra todos o historico de commit
+
+
+##FLUXO TRABALHO
+
+mkdir criar diretorio do projeto mkdir
+git init . :iniciar git dentro do diretorio
+editar ou criar arquivos
+git status
+git add <arq>
+git status
+git commit -m "msg"
+git status
+editar/criar +arq
