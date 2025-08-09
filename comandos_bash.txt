@@ -16,3 +16,4 @@ git add -> prepara o que pode ser commited
 git commit -m "xxx" ->
 
 git config --global user.EMAIL/NAME "xxx" ->
+
