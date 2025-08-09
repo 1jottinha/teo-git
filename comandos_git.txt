@@ -7,12 +7,12 @@ git log      -> mostra todos o historico de commit
 
 ##FLUXO TRABALHO
 
-mkdir criar diretorio do projeto mkdir
-git init . :iniciar git dentro do diretorio
-editar ou criar arquivos
-git status
-git add <arq>
-git status
-git commit -m "msg"
-git status
-editar/criar +arq
+1.mkdir criar diretorio do projeto mkdir
+2.git init . :iniciar git dentro do diretorio
+3.editar ou criar arquivos
+4.git status
+5.git add <arq>
+6.git status
+7.git commit -m "msg"
+8.git status
+9.editar/criar +arq
