@@ -6,7 +6,8 @@ cat -> mostra o que tem dentro do arquivo
 
 (comandos-git)
 git init . -> inicializa repositorio git vazio
-rm -rf .git/ -> remove (CUIDADO! -rf remove até o :C/)
+rm -> remove arquivo ou diretorio
+rm -rf -> remove de forma recursiva e forçada todos diretorios
 
 git status -> 
 
