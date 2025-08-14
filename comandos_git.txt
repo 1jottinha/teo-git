@@ -16,3 +16,9 @@ git log      -> mostra todos o historico de commit
 7.git commit -m "msg"
 8.git status
 9.editar/criar +arq
+
+git checkout -b secundaria -> cria uma ramificação BRANCH (-b apenas para criar)
+
+git branch -> ver quais branchs existem
+git branch -D secundaria   -> remove a branch (n pode estar dentro dela)
+
