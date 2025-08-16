@@ -1,4 +1,4 @@
-# ^-^ ~_~ TT-TT O-O '-' `o´
+# ^-^ TT-TT O-O '-' `o´
 
 Provavelmente será repositório para deixar arquivos bagunçados de estudo
 
